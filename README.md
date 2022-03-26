@@ -2,6 +2,8 @@
 Repositório público referente a resolução de atividade da disciplina de gerência de configuração -
 IMC na linguagem C.
 
+Curso: Engenharia de Software - UNIGRAN
+
 # Comandos para adicionar repositório
 
 1.  git init
